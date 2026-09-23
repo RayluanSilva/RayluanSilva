@@ -20,9 +20,10 @@ Desenvolvedor web em formação, com foco em **PHP, JavaScript e MySQL**.
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
+| [**Portfólio**](https://github.com/RayluanSilva/Portfolio_Rayluan) | Meu site pessoal com todos os projetos, prévias ao vivo e contato · [ver online](https://rayluansilva.github.io/Portfolio_Rayluan/) | HTML, CSS, JavaScript |
+| [**Simulando (TCC)**](https://github.com/RayluanSilva/simulando) | Plataforma de simulados com correção automática e painéis para aluno, professor e administrador · [ver online](https://simulando.byethost15.com/) | PHP, MySQL, JavaScript |
 | [**Salão da Leila**](https://github.com/RayluanSilva/salao-da-leila) | Sistema de agendamento com login, painel administrativo e dashboard de faturamento · [ver online](https://salao-da-leila.vercel.app) | JavaScript, Firebase Auth, Firestore |
-| [**Simulando (TCC)**](https://simulando.byethost15.com/) | Plataforma de simulados com correção automática e painéis para alunos e professores | PHP, MySQL, JavaScript |
-| [**Portfólio**](https://github.com/RayluanSilva/Portfolio_Rayluan) | Meu portfólio, com projetos como o Site de Hábitos Saudáveis · [ver online](https://rayluansilva.github.io/Portfolio_Rayluan/) | HTML, CSS, JavaScript |
+| [**Hábitos Saudáveis**](https://github.com/RayluanSilva/habitos-saudaveis) | Acompanhamento de hábitos com login, calendário, metas e conquistas · [ver online](https://rayluansilva.github.io/habitos-saudaveis/) | HTML, CSS, JavaScript |
 | [**Burger on the Grill**](https://github.com/RayluanSilva/Burguer-On-the-Grill) | Site responsivo para hamburgueria, com cardápio e pedido pelo WhatsApp · [ver online](https://rayluansilva.github.io/Burguer-On-the-Grill/) | HTML, CSS, JavaScript |
 
 ## 📫 Contato
