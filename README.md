@@ -1,12 +1,12 @@
-# Olá, eu sou o Rayluan 👋
+# Olá, eu sou o Rayluan
 
 Desenvolvedor web em formação, com foco em **PHP, JavaScript e MySQL**.
 
-- 💼 Estagiário de desenvolvimento na **Airys**, trabalhando com integrações da **API do WhatsApp**, banco de dados e servidores
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unimar · Técnico em Informática para Internet pela ETEC
-- 📍 Cabrália Paulista, SP
+- Estagiário de desenvolvimento na **Airys**, trabalhando com integrações da **API do WhatsApp**, banco de dados e servidores
+- Estudante de **Análise e Desenvolvimento de Sistemas** na Unimar · Técnico em Informática para Internet pela ETEC
+- Cabrália Paulista, SP
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@ Desenvolvedor web em formação, com foco em **PHP, JavaScript e MySQL**.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
@@ -26,7 +26,7 @@ Desenvolvedor web em formação, com foco em **PHP, JavaScript e MySQL**.
 | [**Hábitos Saudáveis**](https://github.com/RayluanSilva/habitos-saudaveis) | Acompanhamento de hábitos com login, calendário, metas e conquistas · [ver online](https://rayluansilva.github.io/habitos-saudaveis/) | HTML, CSS, JavaScript |
 | [**Burger on the Grill**](https://github.com/RayluanSilva/Burguer-On-the-Grill) | Site responsivo para hamburgueria, com cardápio e pedido pelo WhatsApp · [ver online](https://rayluansilva.github.io/Burguer-On-the-Grill/) | HTML, CSS, JavaScript |
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayluan-silva)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:slvrayluan08@gmail.com)
